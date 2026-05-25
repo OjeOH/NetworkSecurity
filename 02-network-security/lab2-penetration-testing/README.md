@@ -1,6 +1,6 @@
 # 🔓 Lab 2 — Penetration Testing: FTP Exploit & RSA SSH Authentication
 
-**Course:** INFO8501 — Network Security II | Conestoga College, Summer 2024  
+Network Security II
 **Tools:** CentOS 7 Linux VM, Wireshark, PuTTY, Windows Server 2019
 
 > ⚠️ **Ethical Notice:** All activities in this lab were performed in an isolated, controlled lab environment on systems I own and operate for educational purposes. This lab is documented to demonstrate understanding of vulnerabilities — not to enable unauthorized access.
