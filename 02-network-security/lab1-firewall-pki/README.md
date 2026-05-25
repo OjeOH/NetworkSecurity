@@ -1,7 +1,7 @@
 # 🔥 Lab 1 — Palo Alto NGFW: Zone Segmentation & PKI
 
-**Course:** INFO8501 — Network Security II | Conestoga College, Summer 2024  
-**Submitted:** May 24, 2024  
+Network Security II  
+May 24, 2024  
 **Tools:** Palo Alto PAN-OS 10.1, VMware vSphere, CentOS/Linux VMs
 
 ---
