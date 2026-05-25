@@ -1,6 +1,6 @@
 # 🚨 Lab 5 — Intrusion Detection System: SNORT on CentOS 7
 
-**Course:** INFO8501 — Network Security II | Conestoga College, Summer 2024  
+Network Security II
 **Tools:** SNORT 3, PulledPork, CentOS 7, VMware vSphere
 
 ---
