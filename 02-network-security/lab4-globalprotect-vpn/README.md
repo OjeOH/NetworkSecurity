@@ -1,6 +1,6 @@
 # 🌍 Lab 4 — Remote Access VPN with Palo Alto GlobalProtect
 
-**Course:** INFO8501 — Network Security II | Conestoga College, Summer 2024  
+Network Security II  
 **Tools:** Palo Alto PAN-OS 10.1 (Kit 085 / Kit 088), VMware vSphere
 
 ---
