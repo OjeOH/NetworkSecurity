@@ -1,7 +1,7 @@
 # 🔐 Lab 2 — EIGRP Routing with MD5 Authentication
 
-**Course:** INFO8491 — Network Fundamentals | Conestoga College, Winter 2024  
-**Submitted:** March 2, 2024  
+Network Fundamentals 
+March 2, 2024  
 **Tools:** Cisco Packet Tracer, Cisco 2811 Routers (×6), Cisco 2960 Switches (×6)
 
 ---
