@@ -1,5 +1,5 @@
-# 🛡️ Course 2 — Network Security II (INFO8501)
-**Conestoga College | Summer 2024 | Prof. Tariq Mahood**
+# 🛡️ Network Security II
+
 
 ---
 
@@ -33,7 +33,7 @@ The labs in this course tell a sequential story:
 | [Lab 3 — IPsec VPN](./lab3-ipsec-vpn/) | Site-to-site VPN, IKE Phase 1 & 2 | Palo Alto NGFW |
 | [Lab 4 — GlobalProtect VPN](./lab4-globalprotect-vpn/) | Remote access VPN, SSL/TLS profiles | Palo Alto GlobalProtect |
 | [Lab 5 — SNORT IDS](./lab5-snort-ids/) | Intrusion detection, rule management | SNORT, PulledPork, CentOS 7 |
-| [Final Exam](./final-exam/) | Full Palo Alto config + written security theory | Palo Alto PAN-OS 10.x |
+
 
 ---
 
