@@ -1,7 +1,7 @@
 # 🔒 Lab 1 — Network Topology Design & IOS Hardening
 
-**Course:** INFO8491 — Network Fundamentals | Conestoga College, Winter 2024  
-**Submitted:** February 6, 2024  
+Network Fundamentals  
+February 6, 2024  
 **Tools:** Cisco Packet Tracer, Cisco 2811 Router, Cisco 2960 Switches
 
 ---
