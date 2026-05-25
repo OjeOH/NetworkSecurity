@@ -1,7 +1,7 @@
 # 🌐 Networking & Cybersecurity Portfolio
 
-**Opeoluwa Hezekiah Oje** | Student ID: 8917862  
-Conestoga College — Information Technology: Network Security  
+**Opeoluwa Hezekiah Oje**  
+Information Technology: Network Security  
 📍 Waterloo, Ontario, Canada
 
 ---
@@ -21,7 +21,7 @@ Each project was implemented using industry-standard tools: **Cisco Packet Trace
 ```
 networking-portfolio/
 │
-├── 01-network-fundamentals/          # INFO8491 — Network Design & Routing
+├── 01-network-fundamentals/          #  Network Design & Routing
 │   ├── lab1-topology-hardening/      # IOS hardening: SSH, ACLs, static routes
 │   └── lab2-dynamic-routing/
 │       ├── rip-ospf/                 # RIP v2 + OSPF on multi-router topology
@@ -73,7 +73,7 @@ networking-portfolio/
 | [Lab 3 — IPsec VPN](./02-network-security/lab3-ipsec-vpn/) | IKE, IPsec tunnels, SA negotiation | Palo Alto NGFW |
 | [Lab 4 — GlobalProtect VPN](./02-network-security/lab4-globalprotect-vpn/) | Remote access VPN, SSL/TLS profiles | Palo Alto GlobalProtect |
 | [Lab 5 — SNORT IDS](./02-network-security/lab5-snort-ids/) | IDS deployment, rule management | SNORT, CentOS 7 |
-| [Final Exam](./02-network-security/final-exam/) | End-to-end Palo Alto config under exam conditions | Palo Alto PAN-OS 10.x |
+| (./02-network-security/final-exam/) | End-to-end Palo Alto config | Palo Alto PAN-OS 10.x |
 
 ---
 
@@ -89,9 +89,8 @@ networking-portfolio/
 
 I'm actively looking for opportunities in **network engineering**, **cybersecurity**, and **IT infrastructure** roles.
 
-- 📧 Feel free to reach out via [LinkedIn](#) *(update with your profile link)*
-- 🏫 Conestoga College, Waterloo Campus
+- 📧 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/opeoluwaoje/) 
+
 
 ---
 
-*All lab work is original and was completed individually as part of accredited coursework at Conestoga College.*
