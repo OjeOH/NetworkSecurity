@@ -1,6 +1,6 @@
 # 🔐 Lab 3 — Site-to-Site IPsec VPN (Palo Alto NGFW)
 
-**Course:** INFO8501 — Network Security II | Conestoga College, Summer 2024  
+Network Security II
 **Tools:** Palo Alto PAN-OS 10.1 (Kit 086), Cisco Router (BCsite1), VMware vSphere
 
 ---
