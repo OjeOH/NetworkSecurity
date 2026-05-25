@@ -1,7 +1,7 @@
 # 🔄 Lab 2 — Dynamic Routing: RIP v2 & OSPF
 
-**Course:** INFO8491 — Network Fundamentals | Conestoga College, Winter 2024  
-**Submitted:** March 2, 2024  
+Network Fundamentals  
+March 2, 2024  
 **Tools:** Cisco Packet Tracer, Cisco 2811 Routers (×3), Cisco 2960 Switch
 
 ---
