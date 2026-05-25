@@ -73,7 +73,7 @@ networking-portfolio/
 | [Lab 3 — IPsec VPN](./02-network-security/lab3-ipsec-vpn/) | IKE, IPsec tunnels, SA negotiation | Palo Alto NGFW |
 | [Lab 4 — GlobalProtect VPN](./02-network-security/lab4-globalprotect-vpn/) | Remote access VPN, SSL/TLS profiles | Palo Alto GlobalProtect |
 | [Lab 5 — SNORT IDS](./02-network-security/lab5-snort-ids/) | IDS deployment, rule management | SNORT, CentOS 7 |
-| (./02-network-security/final-exam/) | End-to-end Palo Alto config | Palo Alto PAN-OS 10.x |
+| [Final-Exam](./02-network-security/final-exam/) | End-to-end Palo Alto config | Palo Alto PAN-OS 10.x |
 
 ---
 
