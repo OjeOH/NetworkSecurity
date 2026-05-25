@@ -1,5 +1,5 @@
-# 📡 Course 1 — Network Fundamentals (INFO8491)
-**Conestoga College | Winter 2024 | Prof. Shahid Ismail**
+# 📡  Network Fundamentals
+
 
 ---
 
