@@ -33,7 +33,6 @@ networking-portfolio/
     ├── lab3-ipsec-vpn/               # Site-to-site IPsec VPN (Palo Alto)
     ├── lab4-globalprotect-vpn/       # Remote Access VPN with GlobalProtect
     ├── lab5-snort-ids/               # SNORT IDS deployment on CentOS
-    └── final-exam/                   # Comprehensive Palo Alto firewall exam
 ```
 
 ---
